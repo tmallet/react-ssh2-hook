@@ -4,7 +4,7 @@ React hook to init shell connection via ssh.
 
 ## Requirements
 * [node.js](http://nodejs.org/) -- v10.16.0 or newer
-# Installation
+## Installation
 Using npm:
 
     npm install react-ssh2-hook
