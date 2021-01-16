@@ -12,6 +12,14 @@
       "url": "https://www.opensource.org/licenses/mit-license.php"
     }
   ],
+  "keywords": [
+    "ssh2",
+    "ssh2 typescript",
+    "ssh2 hook",
+    "ssh2 react",
+    "ssh shell",
+    "shell react"
+  ],
   "scripts": {
     "build": "tsc"
   },
