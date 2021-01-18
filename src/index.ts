@@ -1,3 +1,3 @@
-import { useShell } from './useShell'
+import { ShellConfig, useShell } from './useShell'
 
-export { useShell }
+export { useShell, ShellConfig }

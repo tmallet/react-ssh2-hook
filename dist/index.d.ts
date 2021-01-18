@@ -1,2 +1,2 @@
-import { useShell } from './useShell';
-export { useShell };
+import { ShellConfig, useShell } from './useShell';
+export { useShell, ShellConfig };
